@@ -4,4 +4,4 @@ export default function MyComponent() {
     return (
         <div class={styles.kutija}> Moja prva komponenta </div>
     );
-}
+}   
